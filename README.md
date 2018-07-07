@@ -12,6 +12,8 @@
 [![Downloads count][badge_downloads_count]][link_packagist]
 [![License][badge_license]][link_license]
 
+> This version is no longer supported.
+
 **IDEntity** (identification entities) is objects with implemented methods of validation, normalization, and optional automatic type determination.
 
 ## Installation
